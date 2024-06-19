@@ -1,0 +1,16 @@
+h1{background-color: goldenrod;
+   color: white;}
+.heading{
+    height: 70px;
+    text-align: center;
+    
+}  
+.promt{
+    padding: 200px;
+    width:100%;
+   
+
+}
+button{
+    color: aqua;
+}
